@@ -12,3 +12,5 @@ Create a new environment
 '''
 conda create -p venv python==3.7 -y
 '''
+
+Link for live project run : https://boston-house-price1920.herokuapp.com/
