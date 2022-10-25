@@ -1,4 +1,4 @@
-# Boston House Pice
+# Boston House Price
 # Software and Tools Requirements
 
 
